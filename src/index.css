@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  font-family: Montserrat , PT Serif;
+    
+    
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: thistle;
+}
+.body-container{
+  background-color: #e9ecef;
+}
+
+
+.page-footer{
+height: auto;
+
+}
+.footer{
+  padding-top: 40px;
+  color: white;
+}
+.top-searches h6{
+  line-height: 40px !important;
+  color: white;
+}
+.logo-secondary{
+  width:200px;
+}
+
+  
+.list{
+    padding-top: 48px;
+}
+.list li a { color: white !important;
+ } 
+.list-1 li a { color: white !important;
+ } 
+ #login-container {
+  height: auto;
+  width: 400px;
+  padding: 20px;
+  border-radius: 5px;
+  position: relative;
+  background-color: white;
+  margin-bottom: 100px;
+}
+  .profile-img {
+    height: 100px;
+    width: 100px;
+    background: url("https://images.pexels.com/photos/2127969/pexels-photo-2127969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940.");
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: -25px;
+    left: -25px;
+    border-radius: 50%;
+    
+  }
+  h1 {
+    font-family: 'Sriracha', arial, sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    
+  }
+  .description{
+    margin-bottom: 20px;
+  }
+  .social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+  }
+  .text-secondary{
+    color: #343a40 !important;
+  }
+  .ax{
+    text-align: center;
+    
+    width: 75px;
+    padding: 5px 0;
+    border-radius: 5px;
+  }
+  .card-container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  
+
+    .fa-heart {
+      color: black;
+    }
+    .card-row{
+      justify-content: space-around;
+    }
+    .sort-by-area{
+           width:250px !important;
+           height:90px !important;
+           border-radius: 15px !important;
+    }
+    .z{
+       font-weight: 200;
+    }
+  
+    .links{
+      display: flex;
+      letter-spacing: 3px;
+    }
+
+  .links a{
+    color: #6c757d !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+  }
+  .links .buy-links {
+    color:#007bff !important;
+  }
+  .navbar-container{
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .icon{
+     display:flex;
+     justify-content:space-between;
+  }
+  .divider{
+    border-left: 3px solid #007bff;
+    height: 91px;
+    position: absolute;
+    top: 607px;
+    z-index: 1;
+    right: 680px;
+  }
