@@ -11,58 +11,79 @@ function Card() {
             <div id="login-container">
                 
                 <div class="profile-img"></div>
-                <h1>
-                    Maddie
+                <h1 className="card-name text-info">
+                    Roise sutter
                 </h1>
-                <div class="description">
-                    Maddie is a front end web developer in New York. She has worked in the field for 10 years now. Check out her projects in the links below. She is available for hire as well.
+                <div class="description text-center">
+                   The Red Pin  <span className="text-secondary">Real Estate Agent</span>
             </div>
-                <div class="social">
-                    <a className="ax">GitHub</a>
-                    <a className="ax">Twitter</a>
-                    <a className="ax">LinkedIn</a>
+                <div class="social container">
+                    <p className="ax"><b>Ontario,Canada</b></p>
+                    <p className="ax"><b>Markham,L3R </b></p>
+                    <p className="ax"><b>Ontario,Canada</b></p>
+                </div>
+                <div className="row text-center city">
+                <p className="col-4">State and country</p>
+                <p className="col-4">City & Zip</p>
+                <p className="col-4"> Contact Type</p>
                 </div>
             </div>
             <div id="login-container">
-                <div class="profile-img"></div>
-                <h1>
-                    Maddie
+                <div class="profile-img2"></div>
+                <h1 className="card-name text-info">
+                    Nate lahey
                 </h1>
-                <div class="description">
-                    Maddie is a front end web developer in New York. She has worked in the field for 10 years now. Check out her projects in the links below. She is available for hire as well.
+                <div class="description text-center">
+                The Red Pin <span className="text-secondary">Real Estate Agent</span>
             </div>
-                <div class="social">
-                    <a className="ax">GitHub</a>
-                    <a className="ax">Twitter</a>
-                    <a className="ax">LinkedIn</a>
+                <div class="social container">
+                <p className="ax"><b>Ontario,Canada</b></p>
+                <p className="ax"><b>Markham,L3R </b></p>
+                <p className="ax"><b>Ontario,Canada</b></p>
+                
+                </div>
+                <div className="row text-center city">
+                <p className="col-4">State and country</p>
+                <p className="col-4">City & Zip</p>
+                <p className="col-4"> Contact Type</p>
                 </div>
             </div>
             <div id="login-container">
-                <div class="profile-img"></div>
-                <h1>
-                    Maddie
+                <div class="profile-img3"></div>
+                <h1 className="card-name text-info">
+                    Martha Gim
                 </h1>
-                <div class="description">
-                    Maddie is a front end web developer in New York. She has worked in the field for 10 years now. Check out her projects in the links below. She is available for hire as well.
+                <div class="description text-center">
+                The Red Pin <span className="text-secondary">Real Estate Agent</span>
             </div>
-                <div class="social">
-                    <a className="ax">GitHub</a>
-                    <a className="ax">Twitter</a>
-                    <a className="ax">LinkedIn</a>
+                <div class="social container">
+                <p className="ax"><b>Ontario,Canada</b></p>
+                    <p className="ax"><b>Markham,L3R </b></p>
+                    <p className="ax"><b>Ontario,Canada</b></p>
+                </div>
+                <div className="row text-center city">
+                <p className="col-4">State and country</p>
+                <p className="col-4">City & Zip</p>
+                <p className="col-4"> Contact Type</p>
                 </div>
             </div>
             <div id="login-container">
-                <div class="profile-img"></div>
-                <h1>
-                    Maddie
+                <div class="profile-img4"></div>
+                <h1 className="card-name text-info">
+                    Jack Gibbins
                 </h1>
-                <div class="description">
-                    Maddie is a front end web developer in New York. She has worked in the field for 10 years now. Check out her projects in the links below. She is available for hire as well.
+                <div class="description text-center">
+                The Red Pin <span className="text-secondary">Real Estate Agent</span>
             </div>
-                <div class="social">
-                    <a className="ax">GitHub</a>
-                    <a className="ax">Twitter</a>
-                    <a className="ax">LinkedIn</a>
+                <div class="social container">
+                <p className="ax"><b>Ontario,Canada</b></p>
+                    <p className="ax"><b>Markham,L3R </b></p>
+                    <p className="ax"><b>Ontario,Canada</b></p>
+                </div>
+                <div className="row text-center city">
+                <p className="col-4">State and country</p>
+                <p className="col-4">City & Zip</p>
+                <p className="col-4"> Contact Type</p>
                 </div>
             </div>
         </div>

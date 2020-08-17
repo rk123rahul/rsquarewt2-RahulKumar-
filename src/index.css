@@ -38,17 +38,17 @@ height: auto;
  } 
  #login-container {
   height: auto;
-  width: 400px;
-  padding: 20px;
+  width: 515px;
+  padding: 23px;
   border-radius: 5px;
   position: relative;
   background-color: white;
-  margin-bottom: 100px;
+  margin-bottom:70px;
 }
   .profile-img {
-    height: 100px;
-    width: 100px;
-    background: url("https://images.pexels.com/photos/2127969/pexels-photo-2127969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940.");
+    height: 128px;
+    width: 143px;
+    background: url("./assets/pexels-photo-1239291.jpeg");
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -65,12 +65,15 @@ height: auto;
   }
   .description{
     margin-bottom: 20px;
+    font-size:14px;
+    font-weight:500;
   }
   .social {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
+    font-size:15px;
   }
   .text-secondary{
     color: #343a40 !important;
@@ -78,7 +81,7 @@ height: auto;
   .ax{
     text-align: center;
     
-    width: 75px;
+    width: 96px;
     padding: 5px 0;
     border-radius: 5px;
   }
@@ -131,4 +134,47 @@ height: auto;
     top: 607px;
     z-index: 1;
     right: 680px;
+  }
+  .card-name{
+    font-size: 24px;
+    margin-bottom: 1.5rem;
+  }
+  .city{
+       font-size:12px;
+  }
+  .profile-img2 {
+    height: 128px;
+    width: 143px;
+    background: url("./assets/pexels-photo-220453.jpeg");
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: -25px;
+    left: -25px;
+    border-radius: 50%;
+    
+  }
+  .profile-img3 {
+    height: 128px;
+    width: 143px;
+    background: url("./assets/pexels-photo-1024311.jpeg");
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: -25px;
+    left: -25px;
+    border-radius: 50%;
+    
+  }
+  .profile-img4 {
+    height: 128px;
+    width: 143px;
+    background: url("./assets/pexels-photo-1222271.jpeg");
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: -25px;
+    left: -25px;
+    border-radius: 50%;
+    
   }

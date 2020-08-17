@@ -15,14 +15,14 @@ function Info() {
                 <img class="card-img-top" src={pic1} alt="Card image cap" />
                 <div class="card-body">
                 <h5 class="card-title text-center">HAND CURATED PROFESSIONALS </h5>
-                    <p class="card-text">Buying? selling? Financing?No problem.Our team is hand selected from the best professionals in each specific area of Real Estate </p>
+                    <p class="card-text text-center">Buying? selling? Financing?No problem.Our team is hand selected from the best professionals in each specific area of Real Estate</p>
                 </div>
             </div>
             <div class="card info-card my-5" >
                 <img class="card-img-top" src={pic2} alt="Card image cap" />
                 <div class="card-body">
                 <h5 class="card-title text-center">SAVE ON FEES</h5>
-                    <p class="card-text">Pay just 4.5% in fees.That's 0.5% less than the traditional 5% and,<br></br> thousand saving.</p>
+                    <p class="card-text text-center">Pay just 4.5% in fees.That's 0.5% less than the traditional 5% and,<br></br> thousand saving.</p>
                 </div>
             </div>
             </div>
@@ -40,7 +40,7 @@ function Info() {
                 <img class="card-img-top" src={pic4} alt="Card image cap" />
                 <div class="card-body">
                 <h5 class="card-title text-center">EXPERTISE AT EVERY STEP</h5>
-                    <p class="card-text">From setting the right list price to closing,you'll be supported by local industry experts.</p>
+                    <p class="card-text text-center">From setting the right list price to closing,you'll be supported by local industry experts.</p>
                 </div>
             </div>
             </div>

@@ -15,8 +15,8 @@ function Footer() {
                 <div className="container footer ">
                     <div className="row">
                         <div className="col ">
-                        <img class= "logo-secondary" src={logo2} alt="Card image cap" />
-                            <p>hfhkd dfgdgfdg dhgfgdfgkd gdgfgdhf dgfdgf</p>
+                        <img class= "logo-secondary my-3" src={logo2} alt="Card image cap " />
+                            <p>nock nock provides buyers with the ultimate in Real Estate experision while dealing with only the Top 1% of hand picked Real Estae Agents in Canada.</p>
                         </div>
                         <div className="col top-searches">
                             <h6>Top Searches</h6>
@@ -69,9 +69,12 @@ function Footer() {
                         </div>
                         </div>
                     </div>
+                 
+                    
                 </div>
+                
             </footer>
-
+        
         </>
     );
 }
