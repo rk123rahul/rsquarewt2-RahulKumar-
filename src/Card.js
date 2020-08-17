@@ -18,7 +18,7 @@ function Card() {
                     Maddie is a front end web developer in New York. She has worked in the field for 10 years now. Check out her projects in the links below. She is available for hire as well.
             </div>
                 <div class="social">
-                    <a className="ax">GitHub</a>
+                    <a className="ax"></a>
                     <a className="ax">Twitter</a>
                     <a className="ax">LinkedIn</a>
                 </div>
