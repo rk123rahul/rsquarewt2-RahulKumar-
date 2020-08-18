@@ -13,9 +13,9 @@ function Footer() {
         <>
             <footer className="page-footer bg-info">
                 <div className="container footer ">
-                    <div className="row">
+                    <div className="row footer-row">
                         <div className="col ">
-                        <img class= "logo-secondary my-3" src={logo2} alt="Card image cap " />
+                            <img class="logo-secondary " src={logo2} alt="Card image cap " />
                             <p>nock nock provides buyers with the ultimate in Real Estate experision while dealing with only the Top 1% of hand picked Real Estae Agents in Canada.</p>
                         </div>
                         <div className="col top-searches">
@@ -25,56 +25,60 @@ function Footer() {
                                     <a href="#!">Real State Agent Near Me</a>
                                 </li>
                                 <li>
-                                    <a href="#!">Real State Agent Near Me</a>
+                                    <a href="#!">Real State Agent in Toronto</a>
                                 </li>
                                 <li>
-                                    <a href="#!">Real State Agent Near Me</a>
+                                    <a href="#!">Real State Agent in Oakville</a>
                                 </li>
                                 <li>
-                                    <a href="#!">Real State Agent Near Me</a>
+                                    <a href="#!">Real State Agent in Milton</a>
                                 </li>
                             </ul>
 
 
                         </div>
                         <div className="col">
-                            
+
                             <ul className="list-unstyled list">
                                 <li>
-                                    <a href="#!">Real State Agent Near Me</a>
+                                    <a href="#!">Real State Agent in Burlington</a>
                                 </li>
                                 <li>
-                                    <a href="#!">Real State Agent Near Me</a>
+                                    <a href="#!">Real State Agent in Mississauga</a>
                                 </li>
                                 <li>
-                                    <a href="#!">Real State Agent Near Me</a>
+                                    <a href="#!">Real State Agent in Etobicoke</a>
                                 </li>
                                 <li>
-                                    <a href="#!">Real State Agent Near Me</a>
+                                    <a href="#!">Real State Agent in Hamilton</a>
                                 </li>
                             </ul>
                         </div>
                         <div className="col">
-                        <p>Follow us</p>
-                        <div className="icon">
-                          <span>
-                          <img class="card-img-top" src={fb} alt="Card image cap" /> 
-                          </span>
-                          <span>
-                          <img class="card-img-top" src={tw} alt="Card image cap" /> 
-                          </span>
-                          <span>
-                          <img class="card-img-top" src={ins} alt="Card image cap" /> 
-                          </span>
-                        </div>
+                            <p>Follow us</p>
+                            <div className="icon footer-icon">
+                                <span>
+                                    <img class="card-img-top" src={fb} alt="Card image cap" />
+                                </span>
+                                <span>
+                                    <img class="card-img-top" src={tw} alt="Card image cap" />
+                                </span>
+                                <span>
+                                    <img class="card-img-top" src={ins} alt="Card image cap" />
+                                </span>
+                            </div>
                         </div>
                     </div>
-                 
-                    
+
+                    <div class="footer-divider"></div>
+                    <div class="lower-footer">
+                        <p class="terms-condition">Terms and Condition /About Us /News /Privacy Policy</p>
+                        <p class="terms-condition">@ 2020 nock nock inc. All rights reserved</p>
+                    </div>
                 </div>
-                
+
             </footer>
-        
+
         </>
     );
 }

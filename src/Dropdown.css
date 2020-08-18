@@ -1,0 +1,23 @@
+.dropdown-list{
+          Max-width:400px;
+          height:500px;                
+}
+.dropdown-m{
+         padding-left: 70px;
+         padding-top: 100px;
+         font-size:20px;
+}
+.dropdown_footer{
+        display: flex;
+        justify-content:space-around;
+        font-size: 12px;
+}
+.dropdown_icon{
+             display: flex;
+             justify-content: space-around;
+}
+.icon-popup{
+    width: 22px !important;
+    margin-top: 20px;
+    margin-left: 9px;
+}

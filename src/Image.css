@@ -82,9 +82,9 @@ h5{
 }
 @media only screen and (max-width: 768px){
     .input{
-    height: 39px;
-    width: 315px;
-    margin-left: 2px;
+        height: 39px;
+        width: 328px;
+        margin-left: 16px;
 
 }
 .close-btn{

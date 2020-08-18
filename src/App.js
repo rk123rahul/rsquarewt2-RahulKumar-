@@ -7,15 +7,18 @@ import Footer from "./Footer"
 import Card from "./Card"
 import Info from "./Info"
 import Image from "./Image"
+
+
 function App() {
   return (
     <>
       <div class="body-container">
         <Menu></Menu>
         <Image></Image>
+        {/* <Dropdown></Dropdown> */}
         <div class="divider  text-center"></div>
         <div className="text-center my-5 text-secondary">
-             <h4>Why People choose Us Over The Rest.</h4>
+             <h4>Why People Choose Us Over The Rest.</h4>
         </div>
         <Info></Info>
         <div class="card sort-by-area  container text-center my-3 ">
